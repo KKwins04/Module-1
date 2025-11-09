@@ -12,4 +12,4 @@ print("Hello Python \n")
 print("Hello" ,4)
 
 #End argument for Print statement
-print("welcome too ", end= "$") 
+print("welcome too ", end = "$") 
